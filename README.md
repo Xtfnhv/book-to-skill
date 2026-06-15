@@ -411,6 +411,14 @@ When in doubt, follow the license or terms of the source document. This project 
 
 ---
 
+## 💖 Sponsors
+
+book-to-skill is free and MIT-licensed, maintained on personal time. If it saves you tokens or study hours, consider sponsoring its upkeep: PR reviews, multilingual fixes, releases, and docs.
+
+**[Become a sponsor → github.com/sponsors/virgiliojr94](https://github.com/sponsors/virgiliojr94)**
+
+Every sponsor is listed in [BACKERS.md](BACKERS.md). Thank you for keeping open, privacy-first tooling alive. ✨
+
 ## License
 
 MIT — applies to the converter (code + skill definition) in this repository, **not** to any book or document you process with it.
